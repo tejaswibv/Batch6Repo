@@ -1,1 +1,3 @@
-class DemoBranch1{}
+class DemoBranch1{
+DemoBranch1() {}
+}
