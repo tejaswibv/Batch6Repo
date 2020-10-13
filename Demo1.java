@@ -1,6 +1,1 @@
-public class Demo1 {
-public Demo1() {
-
-}
-
-}
+public class Demo1{}
